@@ -22,7 +22,7 @@ let state;
 // undefined => 
 // symbol => unique
 
-
+// javascript is dynamically typed language
 // object
 
 console.log(typeof undefined); // undefined
