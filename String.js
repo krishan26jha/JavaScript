@@ -1,3 +1,4 @@
+// String Methods in JavaScript
 const name = "krishna"
 const repoCount = 50
 
